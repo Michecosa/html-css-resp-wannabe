@@ -141,4 +141,9 @@ img {
     .row {flex-direction: column;}
 
     .col {margin-bottom: 3rem;}
+
+    .why-us .col-left,
+    .why-us .col-right {
+        width: 100%;
+    }
 }
