@@ -22,4 +22,4 @@ The work focused exclusively on using **media queries**.
 
 - **Between 769px and 1160px**  
   - Fixed the issue of a too rigid layout.  
-  - Removed the horizontal scrollbar by resizing `.container` to `width: 100%` with side padding.  
+  - Removed the horizontal scrollbar by resizing `.container` to `width: 100%` .  
