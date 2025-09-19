@@ -1,25 +1,25 @@
 # Responsive Layout – Boolean Academy
 
-Questo esercizio non richiedeva lo sviluppo del sito da zero, ma l’aggiunta della **responsività** al layout già fornito, **senza modificare l’HTML o il CSS esistente**.  
-Il lavoro si è concentrato esclusivamente sull’uso delle **media query**.
+This exercise didn’t require building the website from scratch, but rather adding **responsiveness** to the existing layout, **without modifying the given HTML or CSS**.  
+The work focused exclusively on using **media queries**.
 
 🌐 [Check it out!](https://michecosa.github.io/html-css-resp-wannabe/)
 
 <br>
 
-## Obiettivi raggiunti
+## Goals Achieved
 
 - **Tablet (≤ 768px)**  
-  - Le colonne (`.col`) diventano a larghezza piena.  
-  - Le sezioni *Lessons* e *Steps* vengono mostrate una card per riga.  
-  - Nella sezione *Why Us* immagine e testo si dispongono verticalmente (immagine sopra, testo sotto).  
+  - Columns (`.col`) expand to full width.  
+  - *Lessons* and *Steps* sections display one card per row.  
+  - In the *Why Us* section, the image and text are stacked vertically (image above, text below).  
 
 - **Smartphone (≤ 480px)**  
-  - Forzato layout a colonna con `flex-direction: column`.  
-  - Ogni elemento va uno sotto l’altro.  
-  - Ridimensionati titoli (`h1`, `h2`, `h3`) per una migliore leggibilità.  
-  - Aggiunte spaziature extra tra gli elementi.  
+  - Forced column layout with `flex-direction: column`.  
+  - Every element is stacked one after another.  
+  - Resized headings (`h1`, `h2`, `h3`) for better readability.  
+  - Added extra spacing between elements.  
 
-- **Intervallo tra 769px e 1160px**  
-  - Risolto il problema del layout troppo rigido.  
-  - Eliminata la scrollbar orizzontale ridimensionando `.container` a `width: 100%` con padding laterale.  
+- **Between 769px and 1160px**  
+  - Fixed the issue of a too rigid layout.  
+  - Removed the horizontal scrollbar by resizing `.container` to `width: 100%` with side padding.  
