@@ -139,4 +139,6 @@ img {
     .container {width:100%;}
 
     .row {flex-direction: column;}
+
+    .col {margin-bottom: 3rem;}
 }
