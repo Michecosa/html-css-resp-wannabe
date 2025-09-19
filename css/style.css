@@ -130,4 +130,7 @@ img {
 
  @media screen and (max-width: 768px) {
     .container {width:100%;}
+
+    .lesson .col,
+    .steps .col {width: 100%;}
  }
