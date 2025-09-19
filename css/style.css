@@ -128,9 +128,16 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
- @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .container {width:100%;}
 
-    .lesson .col,
+    .lessons .col,
     .steps .col {width: 100%;}
- }
+}
+
+@media screen and (max-width: 480px) {
+    .container {width:100%;}
+
+    .lessons .col,
+    .steps .col {width: 100%;}
+}
