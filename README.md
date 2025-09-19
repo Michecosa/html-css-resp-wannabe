@@ -16,8 +16,7 @@ The work focused exclusively on using **media queries**.
 
 - **Smartphone (≤ 480px)**  
   - Forced column layout with `flex-direction: column`.  
-  - Every element is stacked one after another.  
-  - Resized headings (`h1`, `h2`, `h3`) for better readability.  
+  - Every element is stacked one after another.   
   - Added extra spacing between elements.  
 
 - **Between 769px and 1160px**  
